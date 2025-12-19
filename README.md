@@ -19,7 +19,7 @@
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis"/></td>
+        <td><img height="40" src="https://go-skill-icons.vercel.app/api/icons?i=mysql,sqlite,redis,mongodb,postgres"/></td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
