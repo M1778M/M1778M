@@ -93,13 +93,13 @@
 
 <br clear="both">
 
-[![M1778M](https://github-readme-activity-graph.vercel.app/graph?username=M1778M&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/M1778M)
+[![M1778](https://github-readme-activity-graph.vercel.app/graph?username=M1778&bg_color=100f0f&color=4c5e9e&line=4c569e&point=403e41&area=true&hide_border=true)](https://github.com/M1778)
 
 <p align="center">
-  <a href="https://github.com/M1778M">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1778M&&theme=tokyonight" alt="M1778M" />
+  <a href="https://github.com/M1778">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=M1778&&theme=tokyonight" alt="M1778" />
   </a>
 </p>
 
 ### ... I like making stuff. Cool stuff.
-Old Username: M1778
+Old Username: M1778M
