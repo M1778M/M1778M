@@ -1,9 +1,9 @@
-<h2 align="left">I am M1778<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> A normal developer :( <img src="https://komarev.com/ghpvc/?username=M1778M&label=Profile%20views&color=0e75b6&style=flat"/></h2>
+<h2 align="left">I am M1778<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"> A normal developer :( <img src="https://komarev.com/ghpvc/?username=M1778&label=Profile%20views&color=0e75b6&style=flat"/></h2>
 
 <img align="right" height="200" src="https://i.giphy.com/wXo9rzjkBBk7m.webp"/>
 <p align="center">
-<a href="https://github.com/M1778M">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M1778M&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/M1778">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M1778&layout=compact&langs_count=8&theme=algolia&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
